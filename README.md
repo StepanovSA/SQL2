@@ -6,14 +6,14 @@
 город нахождения магазина;
 количество пользователей, закреплённых в этом магазине.
 
-![alt text](https://github.com/StepanovSA/SQL1/blob/main/SQL1.1.png)
+![alt text](https://github.com/StepanovSA/SQL2/blob/main/SQL2.1.png)
 
 # Задание 2
 Получите количество фильмов, продолжительность которых больше средней продолжительности всех фильмов.
 
-![alt text](https://github.com/StepanovSA/SQL1/blob/main/SQL1.1.png)
+![alt text](https://github.com/StepanovSA/SQL2/blob/main/SQL2.2.png)
 
 # Задание 3
 Получите информацию, за какой месяц была получена наибольшая сумма платежей, и добавьте информацию по количеству аренд за этот месяц.
 
-![alt text](https://github.com/StepanovSA/SQL1/blob/main/SQL1.1.png)
+![alt text](https://github.com/StepanovSA/SQL2/blob/main/SQL2.3.png)
